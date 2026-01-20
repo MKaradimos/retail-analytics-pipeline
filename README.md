@@ -447,15 +447,6 @@ MIT License - See LICENSE file for details
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
 ## 🙏 Acknowledgments
 
 - **FakeStore API** - Sample product data
