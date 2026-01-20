@@ -468,7 +468,7 @@ MIT License - See LICENSE file for details
 ## 📞 Contact
 
 For questions or feedback:
-- Email: your.email@example.com
+- Email: karadimosmixalis@gmail.com
 - LinkedIn: [Your LinkedIn Profile]
 
 ---
